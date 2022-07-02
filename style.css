@@ -7,7 +7,7 @@
 /* Logo 字体 */
 @font-face {
     font-family: 'iconfont';
-    src: url('/fonts/iconfont.ttf?t=1656659582581') format('truetype');
+    src: url('fonts/iconfont.ttf?t=1656659582581') format('truetype');
 }
 
 .iconfont {
