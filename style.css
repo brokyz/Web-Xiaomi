@@ -484,8 +484,8 @@ img {
     background-color: white;
     top: calc(50% - 150px);
     left: calc(50% - 150px);
-    border-radius: 10px;
-    box-shadow: 0 15px 30px rgb(0 0 0 / 80%);
+    border-radius: 15px;
+    box-shadow: 0 1px 15px rgb(27 31 35 / 15%), 0 0 1px rgb(106 115 125 / 70%);
 }
 
 .center {
