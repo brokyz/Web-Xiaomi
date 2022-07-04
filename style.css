@@ -530,3 +530,18 @@ img {
     height: 100%;
     background: rgb(0 0 0 / 50%);
 }
+
+.more-info {
+    display: none;
+    position: fixed;
+    right: 50px;
+    bottom: 20px;
+    width: fit-content;
+    height: fit-content;
+    background-color: #e0e0e0;
+    border-radius: 5px;
+}
+.more-info:hover {
+    cursor: pointer;
+    background-color: #b0b0b0;
+}
